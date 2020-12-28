@@ -1,0 +1,13 @@
+.card{
+    align-items: center;
+}
+
+.justify-content-between{
+    margin-bottom: 20px;
+}
+
+.table-repos{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
