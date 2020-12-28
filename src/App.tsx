@@ -1,10 +1,10 @@
 import React from 'react';
-import NavBar from './components/Search/Search';
+import Search from './components/Search/Search';
 
 function App() {
   return (
     <div className="App">
-      <NavBar />
+      <Search />
     </div>
   );
 }
