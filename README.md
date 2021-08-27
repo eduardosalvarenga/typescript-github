@@ -1,5 +1,9 @@
 Pesquisa Usuário GitHub
 
+The app is used to fetch a GitHub user and its repos.
+Type a GitHub username and click the "Pesquisar" button to find a user.
+If the user exists, you can click on "Repos" to bring a list of his/her repos.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 To start the project you need to install the dependencies by typing:
@@ -7,10 +11,6 @@ To start the project you need to install the dependencies by typing:
 
 Then you can run the project by typing:
 ### `npm start`
-
-The app is used to fetch a GitHub user and its repos.
-Type a GitHub username and click the "Pesquisar" button to find a user.
-If the user exists, you can click on "Repos" to bring a list of his/her repos.
 
 ## Available Scripts
 
